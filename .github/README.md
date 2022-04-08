@@ -1,1 +1,1 @@
-../CCV_README
+../CCV_README.md
